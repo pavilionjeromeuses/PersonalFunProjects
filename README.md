@@ -1,2 +1,1 @@
-# otherwebsites
-more / other projects in more / other websites
+# Personal & Fun Projects
