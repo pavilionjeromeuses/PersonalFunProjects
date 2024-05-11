@@ -16,6 +16,10 @@ Application for Permit, a [web form](https://github.com/pavilionjeromeuses/appli
 
 A [cyberpunk translation](https://github.com/pavilionjeromeuses/biblecyberpunktranslation) of the Christian Bible ( New American ), HTML, CSS & Javascript.
 
+## 3D
+
+[3D Project Test (Blender, Sketchfab, iFrame)](https://github.com/pavilionjeromeuses/3d1)
+
 ### Others
 
 [Semantic Cyberpunk Blog](https://github.com/pavilionjeromeuses/semanticcyberpunkblog) -
