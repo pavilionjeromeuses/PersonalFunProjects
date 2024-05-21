@@ -18,7 +18,7 @@ A [cyberpunk translation](https://github.com/pavilionjeromeuses/biblecyberpunktr
 
 ## 3D
 
-[3D1][(https://pavilionjeromeuses.github.io/3d1/) - [3D2](https://pavilionjeromeuses.github.io/3d2/)
+[3D1](https://pavilionjeromeuses.github.io/3d1/) - [3D2](https://pavilionjeromeuses.github.io/3d2/)
 
 ### Others
 
