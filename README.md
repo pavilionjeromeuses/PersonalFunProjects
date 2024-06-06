@@ -1,8 +1,8 @@
 # Personal & Fun Projects
 
-## My First Web Portfolio
+## My Portfolios
 
-My first [web portfolio](https://github.com/pavilionjeromeuses/firstwebportfolio) (HTML, CSS & Javascript, Adobe Illustrator, Figma & VS Code)
+My first [web portfolio](https://github.com/pavilionjeromeuses/firstwebportfolio) (HTML, CSS & Javascript, Adobe Illustrator, Figma & VS Code) - [Terminal Portfolio](https://pavilionjeromeuses.github.io/terminalportfolio/)
 
 ## Application For Permit Form
 
